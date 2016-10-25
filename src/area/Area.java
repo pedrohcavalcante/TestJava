@@ -19,7 +19,7 @@ public class Area {
 		}catch(OperacaoException ex){
 			
 		}
-		
+		//Hello darkness
 	}
 
 }
